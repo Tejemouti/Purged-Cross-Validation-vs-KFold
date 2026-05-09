@@ -1,0 +1,7 @@
+Install these libraries
+numpy
+pandas
+scikit-learn
+yfinance
+matplotlib
+seaborn
